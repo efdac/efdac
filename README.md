@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Eman
-- 👀 I’m interested in machine learning and games devoloping
-- 🌱 I’m currently learning python , c++
-- 💞️ I’m looking to collaborate on an international company
-- 📫 How to reach me 
-
-
+- 👋 Hi, I’m Eman
+- 👀 I’m interested in the field of Software Testing and eager to deepen my expertise in quality Control and testing methodologies.
+- 🌱 I’m currently learning and self-studying, actively seeking new opportunities to apply and expand my skills.
